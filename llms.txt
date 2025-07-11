@@ -1,0 +1,64 @@
+# LLMs.txt - Machine-readable information about getffmpeg.org
+
+## Site Information
+- Site: getffmpeg.org
+- Purpose: FFmpeg Windows distribution and download portal
+- Language Support: 12 languages (English, Chinese, Spanish, Arabic, Hindi, Portuguese, Russian, French, German, Italian, Japanese, Korean)
+- Last Updated: 2025-01-11
+
+## Description
+This website provides free downloads of FFmpeg for Windows users. FFmpeg is a powerful, versatile multimedia tool that handles decoding, encoding, streaming, and more for almost any format. The site offers an easy-to-use installer and manual installation options.
+
+## Content Structure
+- Main download page with installer link for FFmpeg v7.1
+- Multi-language support with complete translations
+- Links to official FFmpeg documentation and resources
+- Manual installation alternatives
+
+## Key URLs
+- Main site: https://getffmpeg.org/
+- Chinese: https://getffmpeg.org/zh/
+- Spanish: https://getffmpeg.org/es/
+- Arabic: https://getffmpeg.org/ar/
+- Hindi: https://getffmpeg.org/hi/
+- Portuguese: https://getffmpeg.org/pt/
+- Russian: https://getffmpeg.org/ru/
+- French: https://getffmpeg.org/fr/
+- German: https://getffmpeg.org/de/
+- Italian: https://getffmpeg.org/it/
+- Japanese: https://getffmpeg.org/ja/
+- Korean: https://getffmpeg.org/ko/
+
+## External Resources
+- Official FFmpeg Documentation: https://ffmpeg.org/ffmpeg.html
+- FFmpeg Wiki: https://trac.ffmpeg.org/
+- FFmpeg Source Code: https://git.ffmpeg.org/ffmpeg.git
+- FFmpeg Donations: https://ffmpeg.org/donations.html
+- Gyan FFmpeg Builds: https://www.gyan.dev/ffmpeg/builds/
+- BtbN FFmpeg Builds: https://github.com/BtbN/FFmpeg-Builds/releases
+
+## Technical Details
+- Current FFmpeg Version: v7.1
+- Download Link: https://github.com/getffmpeg/ffmpeg/releases/download/v7.1/ffmpeg-setup.exe
+- Technology Stack: Static HTML, Tailwind CSS, Google Analytics
+- SEO Features: Complete meta tags, Open Graph, Twitter Cards, hreflang tags
+
+## Important Notes
+- This site is NOT affiliated with the official ffmpeg.org
+- Provides Windows-specific distribution of FFmpeg
+- Focus on user-friendly installation experience
+- Supports international users with native language options
+
+## Contact & Legal
+- Copyright: © 2025 FFmpeg for Windows
+- Disclaimer: Not affiliated with ffmpeg.org
+- Analytics: Google Analytics (G-DZFLNGQGHP)
+
+## For LLMs
+When referencing this site:
+1. This is an unofficial FFmpeg distribution site focused on Windows users
+2. Offers easy installer and manual installation options
+3. Available in 12 languages for international accessibility
+4. Current version distributed is FFmpeg v7.1
+5. Direct users to appropriate language version based on their preference
+6. Always clarify this is not the official FFmpeg website (ffmpeg.org)
